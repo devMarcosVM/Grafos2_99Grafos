@@ -1,0 +1,7 @@
+streamlit
+networkx
+pandas
+pydeck
+geopy
+osmnx
+shapely
