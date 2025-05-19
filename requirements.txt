@@ -5,3 +5,4 @@ pydeck
 geopy
 osmnx
 shapely
+scikit-learn
